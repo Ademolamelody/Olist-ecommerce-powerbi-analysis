@@ -270,6 +270,7 @@ The project strengthened my practical Power BI and analytical skills and forms p
 
 ---
 
-## 🔗 Interactive Dashboard
+## 🔗 Author
 
-_Add a link here if the Power BI report is published online._
+Ademola Melody
+
