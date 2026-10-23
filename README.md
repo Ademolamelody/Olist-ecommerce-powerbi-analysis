@@ -533,11 +533,3 @@ This project gave me practical experience with:
 
 **Ademola Melody**\
 Data Analytics Portfolio Project
-
--   **GitHub repository:**
-    https://github.com/Ademolamelody/olist-ecommerce-powerbi-analysis
-
-------------------------------------------------------------------------
-
-*This project was developed for portfolio and analytical learning
-purposes using historical public e-commerce data.*
